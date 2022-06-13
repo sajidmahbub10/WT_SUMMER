@@ -1,0 +1,106 @@
+[
+    {
+        "firstname": "Sajid",
+        "lastname": "Sheikh",
+        "age": "20",
+        "pass": "jgnjtng",
+        "email": "lal.shalu9@gmail.com",
+        "language": "php",
+        "designation": "projectlead"
+    },
+    {
+        "firstname": "Sajid",
+        "lastname": "Mahbub",
+        "age": "20",
+        "pass": "12sajid3",
+        "email": "sajid.mahbub89@gmail.com",
+        "language": "php",
+        "designation": "juniorprogrammer"
+    },
+    {
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "pass": null,
+        "email": null,
+        "language": "",
+        "designation": null
+    },
+    {
+        "firstname": null,
+        "lastname": null,
+        "age": null,
+        "pass": null,
+        "email": null,
+        "language": "",
+        "designation": null
+    },
+    {
+        "firstname": "Karim",
+        "lastname": "Benjema",
+        "age": "34",
+        "pass": "12karim12",
+        "email": "karmi.benju34@gmail.com",
+        "language": null,
+        "designation": "seniorprogrammer"
+    },
+    {
+        "firstname": "Ashraf",
+        "lastname": "Uddin",
+        "age": "22",
+        "pass": "12bcwybv",
+        "email": "ashraf.uddin@gmail.com",
+        "language": "javaphp",
+        "designation": "juniorprogrammer"
+    },
+    {
+        "firstname": "Sajid",
+        "lastname": "Khan",
+        "age": "20",
+        "pass": "hfbuhwdbwb2",
+        "email": "lal.shalu9@gmail.com",
+        "language": "c++",
+        "designation": "juniorprogrammer",
+        "filepath": "..\/uploads\/CSC-3217[AIES] Lab Manual.pdf"
+    },
+    {
+        "firstname": "Sajid",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "",
+        "language": "javac++",
+        "designation": null,
+        "filepath": "..\/uploads\/CSC-3217[AIES] Lab Manual.pdf"
+    },
+    {
+        "firstname": "Sajid",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "",
+        "language": "",
+        "designation": null,
+        "filepath": ""
+    },
+    {
+        "firstname": "Karim",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "",
+        "language": "",
+        "designation": null,
+        "filepath": ""
+    },
+    {
+        "firstname": "Karim",
+        "lastname": "",
+        "age": "",
+        "pass": "",
+        "email": "",
+        "language": "",
+        "designation": null,
+        "filepath": ""
+    }
+]
